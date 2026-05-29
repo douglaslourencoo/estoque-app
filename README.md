@@ -5,39 +5,41 @@ Este projeto consiste no desenvolvimento de um sistema web para gestão de inven
 
 A solução foi desenvolvida com foco na organização e controle de estoque, utilizando tecnologias modernas voltadas para:
 
-gerenciamento de inventário
-banco de dados
-dashboards analíticos
-análise de dados
-apoio à tomada de decisão
+✅ gerenciamento de inventário
+✅ banco de dados
+✅ dashboards analíticos
+✅ análise de dados
+✅ apoio à tomada de decisão
 
 O sistema permite centralizar informações operacionais, reduzir falhas manuais e fornecer indicadores estratégicos para otimização do estoque e redução de capital parado.
 
 🎯 Objetivos do Projeto
-Desenvolver um sistema web para gestão de inventário
-Estruturar banco de dados para armazenamento seguro das informações
-Criar dashboards e indicadores estratégicos
-Automatizar processos de controle de estoque
-Facilitar análises operacionais e gerenciais
-Apoiar tomadas de decisão baseadas em dados
+
+✅ Desenvolver um sistema web para gestão de inventário
+✅ Estruturar banco de dados para armazenamento seguro das informações
+✅ Criar dashboards e indicadores estratégicos
+✅ Automatizar processos de controle de estoque
+✅ Facilitar análises operacionais e gerenciais
+✅ Apoiar tomadas de decisão baseadas em dados
+
 🧠 Tecnologias Utilizadas
-Front-end
+💻 Front-end
 HTML
 CSS
 JavaScript
 React
 Tailwind CSS
-Back-end
+⚙️ Back-end
 Node.js
-Banco de Dados
+🗄️ Banco de Dados
 MySQL
-Infraestrutura
+☁️ Infraestrutura
 Docker
 Nginx
-Controle de Versão
+🔄 Controle de Versão
 Git
 GitHub
-Análise de Dados e Dashboard
+📊 Análise de Dados e Dashboard
 Chart.js
 Excel (.xlsx)
 📊 Funcionalidades
@@ -68,19 +70,21 @@ Valor financeiro por categoria
 
 O dashboard apresenta visualizações interativas utilizando gráficos dinâmicos com Chart.js:
 
-gráficos de barras
-gráficos de pizza
-tabelas analíticas
-filtros inteligentes
+📌 gráficos de barras
+📌 gráficos de pizza
+📌 tabelas analíticas
+📌 filtros inteligentes
+
 🏗️ Arquitetura do Projeto
 
 A aplicação foi construída utilizando arquitetura web moderna:
 
-Front-end responsivo
-API REST com Node.js
-Banco de dados relacional
-Containerização com Docker
-Proxy reverso com Nginx
+✅ Front-end responsivo
+✅ API REST com Node.js
+✅ Banco de dados relacional
+✅ Containerização com Docker
+✅ Proxy reverso com Nginx
+
 📚 Fundamentação
 
 O projeto foi desenvolvido aplicando conceitos de:
@@ -93,12 +97,12 @@ Gestão de Estoques
 Interface Humano-Computador
 Design Thinking
 🚀 Resultados Esperados
-Redução de falhas operacionais
-Melhor controle de estoque
-Apoio estratégico à gestão
-Redução de capital imobilizado
-Maior eficiência organizacional
-Tomada de decisão baseada em dados
--->
+
+✅ Redução de falhas operacionais
+✅ Melhor controle de estoque
+✅ Apoio estratégico à gestão
+✅ Redução de capital imobilizado
+✅ Maior eficiência organizacional
+✅ Tomada de decisão baseada em dados
 -Maior eficiência organizacional
 -Tomada de decisão baseada em dados
