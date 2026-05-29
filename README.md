@@ -106,6 +106,9 @@ O projeto foi desenvolvido aplicando conceitos de:
 ✅ Maior eficiência organizacional<br>
 ✅ Tomada de decisão baseada em dados<br>
 
+---
+
+## 📸 Preview do Projeto
 
 
 <img width="1288" height="203" alt="image" src="https://github.com/user-attachments/assets/711390ea-9919-474b-8d0d-35f277f5c4e3" />
