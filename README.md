@@ -135,4 +135,10 @@ O projeto foi desenvolvido aplicando conceitos de:
 <img width="864" height="378" alt="image" src="https://github.com/user-attachments/assets/3e0106b0-500e-4957-8f7b-c67bf5bdde5a" />
 
 
+![Dashboard Geral](./images/dashboard-geral.png)
+
+![Giro de Estoque](./images/giro-estoque.png)
+
+![Produtos Críticos](./images/produtos-criticos.png)
+
 <img width="917" height="437" alt="image" src="https://github.com/user-attachments/assets/63d852fa-cb1d-4323-ab76-5bb9f9750a59" />
