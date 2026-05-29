@@ -22,23 +22,23 @@ Este projeto consiste no desenvolvimento de um sistema web para gestão de inven
 ✅ Apoiar tomadas de decisão baseadas em dados
 
 ## 🧠 Tecnologias Utilizadas
--💻 Front-end
--HTML
--CSS
-JavaScript
-React
-Tailwind CSS
-⚙️ Back-end
-Node.js
-🗄️ Banco de Dados
-MySQL
-☁️ Infraestrutura
-Docker
-Nginx
-🔄 Controle de Versão
-Git
-GitHub
-📊 Análise de Dados e Dashboard
+✅  Front-end
+✅ HTML
+✅ CSS
+✅ JavaScript
+✅ React
+✅ Tailwind CSS
+✅ Back-end
+✅ Node.js
+✅ Banco de Dados<br>
+✅ MySQL<br>
+✅  Infraestrutura<br>
+✅ Docker<br>
+✅ Nginx<br>
+✅  Controle de Versão<br>
+✅ Git <br>
+✅ GitHub <br>
+## 📊 Análise de Dados e Dashboard
 Chart.js
 Excel (.xlsx)
 📊 Funcionalidades
