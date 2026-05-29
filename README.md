@@ -23,9 +23,6 @@ Este projeto consiste no desenvolvimento de um sistema web para gestão de inven
 ## 🧠 Tecnologias Utilizadas
 ✅ Front-end<br>
 ✅ HTML<br>
-✅ CSS<br>
-✅ React<br>
-✅ JavaScript<br>
 ✅ Tailwind CSS<br>
 ✅ Back-end<br>
 ✅ Node.js<br>
@@ -34,9 +31,13 @@ Este projeto consiste no desenvolvimento de um sistema web para gestão de inven
 ✅ Infraestrutura<br>
 ✅ Docker<br>
 ✅ Nginx<br>
-✅  Controle de Versão<br>
+✅ Controle de Versão<br>
 ✅ Git <br>
 ✅ GitHub <br>
+✅ CSS<br>
+✅ React<br>
+✅ JavaScript<br>
+
 ## 📊 Análise de Dados e Dashboard
 ✅ Chart.js<br>
 ✅ Excel (.xlsx)<br>
