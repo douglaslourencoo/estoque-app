@@ -24,8 +24,8 @@ Este projeto consiste no desenvolvimento de um sistema web para gestão de inven
 ✅ Front-end<br>
 ✅ HTML<br>
 ✅ CSS<br>
-✅ JavaScript<br>
 ✅ React<br>
+✅ JavaScript<br>
 ✅ Tailwind CSS<br>
 ✅ Back-end<br>
 ✅ Node.js<br>
