@@ -105,3 +105,34 @@ O projeto foi desenvolvido aplicando conceitos de:
 ✅ Tomada de decisão baseada em dados<br>
 ✅ Maior eficiência organizacional<br>
 ✅ Tomada de decisão baseada em dados<br>
+
+
+
+<img width="1288" height="203" alt="image" src="https://github.com/user-attachments/assets/711390ea-9919-474b-8d0d-35f277f5c4e3" />
+
+
+<img width="442" height="475" alt="image" src="https://github.com/user-attachments/assets/2f5e4bf4-ec8f-485c-a972-3077d1acd65c" />
+
+
+<img width="881" height="402" alt="image" src="https://github.com/user-attachments/assets/3dacddc5-8475-48e4-80a1-d8ee3ffce8c0" />
+
+
+<img width="245" height="496" alt="image" src="https://github.com/user-attachments/assets/68e800dd-baa4-4881-830a-95970ceaa5a1" />
+
+
+<img width="881" height="324" alt="image" src="https://github.com/user-attachments/assets/8f425bb5-a182-4c47-87cb-d53861e2ef8e" />
+
+
+<img width="949" height="363" alt="image" src="https://github.com/user-attachments/assets/f068abc7-28ec-4d9c-92bc-d98a773265ef" />
+
+
+<img width="842" height="396" alt="image" src="https://github.com/user-attachments/assets/c232e487-55e1-4c67-ac0a-38e835471a7c" />
+
+
+<img width="853" height="330" alt="image" src="https://github.com/user-attachments/assets/a5a265bf-f1e9-4fef-b358-5b2d84026a1b" />
+
+
+<img width="864" height="378" alt="image" src="https://github.com/user-attachments/assets/3e0106b0-500e-4957-8f7b-c67bf5bdde5a" />
+
+
+<img width="917" height="437" alt="image" src="https://github.com/user-attachments/assets/63d852fa-cb1d-4323-ab76-5bb9f9750a59" />
