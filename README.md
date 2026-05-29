@@ -3,7 +3,7 @@
 
 Este projeto consiste no desenvolvimento de um sistema web para gestão de inventário e análise de dados estratégicos aplicado ao contexto empresarial da Socks Co, empresa do segmento industrial com mais de 35 anos de atuação no mercado de fabricação de meias.
 
-##A solução foi desenvolvida com foco na organização e controle de estoque, utilizando tecnologias modernas voltadas para:
+## A solução foi desenvolvida com foco na organização e controle de estoque, utilizando tecnologias modernas voltadas para:
 
 ✅ gerenciamento de inventário<br>
 ✅ banco de dados<br>
