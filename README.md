@@ -1,46 +1,52 @@
-##📦 Sistema Web para Gestão de Inventário e Análise de Dados
-📌 Sobre o Projeto
-
+📊 📦 Sistema Web para Gestão de Inventário e Análise de Dados
 Este projeto consiste no desenvolvimento de um sistema web para gestão de inventário e análise de dados estratégicos aplicado ao contexto empresarial da Socks Co, empresa do segmento industrial com mais de 35 anos de atuação no mercado de fabricação de meias.
 
 A solução foi desenvolvida com foco na organização e controle de estoque, utilizando tecnologias modernas voltadas para:
 
-gerenciamento de inventário
-banco de dados
-dashboards analíticos
-análise de dados
-apoio à tomada de decisão
+*gerenciamento de inventário
+*banco de dados
+*dashboards analíticos
+*análise de dados
+*apoio à tomada de decisão.
 
-##O sistema permite centralizar informações operacionais, reduzir falhas manuais e fornecer indicadores estratégicos para otimização do estoque e redução de capital parado.
-<br>
-##🎯 Objetivos do Projeto
--Desenvolver um sistema web para gestão de inventário
--Estruturar banco de dados para armazenamento seguro das informações
--Criar dashboards e indicadores estratégicos
--Automatizar processos de controle de estoque
--Facilitar análises operacionais e gerenciais
--Apoiar tomadas de decisão baseadas em dados
-<br>
+🚀 Tecnologias
+*Front-end
+*HTML
+*CSS
+*JavaScript
+*React
+*Tailwind CSS
+*Back-end
+*Node.js
+*Banco de Dados
+*MySQL
+*Infraestrutura
+*Docker
+*Nginx
+*Controle de Versão
+*Git
+*GitHub
+*Análise de Dados e Dashboard
+*Chart.js
+*Excel (.xlsx)
+📈 Funcionalidades
+O sistema permite centralizar informações operacionais, reduzir falhas manuais e fornecer indicadores estratégicos para otimização do estoque e redução de capital parado
+🎯 Objetivos do Projeto
+*Desenvolver um sistema web para gestão de inventário
+*Estruturar banco de dados para armazenamento seguro das informações
+*Criar dashboards e indicadores estratégicos
+*Automatizar processos de controle de estoque
+*Facilitar análises operacionais e gerenciais
+*Apoiar tomadas de decisão baseadas em dados
+
+
+
+
+
+
+
 ##🧠 Tecnologias Utilizadas
--Front-end
--HTML
--CSS
--JavaScript
--React
--Tailwind CSS
--Back-end
--Node.js
--Banco de Dados
--MySQL
--Infraestrutura
--Docker
--Nginx
--Controle de Versão
--Git
--GitHub
--Análise de Dados e Dashboard
--Chart.js
--Excel (.xlsx)
+
 <br>
 ##📊 Funcionalidades
 
