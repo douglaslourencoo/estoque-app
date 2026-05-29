@@ -2,7 +2,7 @@
 ## Sistema Web para Gestão de Inventário e Análise de Dados<br>
 📌 Sobre o Projeto
 
-Este projeto consiste no desenvolvimento de um sistema web para gestão de inventário e análise de dados estratégicos aplicado ao contexto empresarial da Socks Co, empresa do segmento industrial com mais de 35 anos de atuação no mercado de fabricação de meias.
+Este projeto consiste no desenvolvimento de um sistema web para gestão de inventário e análise de dados estratégicos aplicado ao contexto empresarial da Socks Co, empresa do segmento industrial com mais de 35 anos de atuação no mercado de fabricação de meias. O sistema permite centralizar informações operacionais, reduzir falhas manuais e fornecer indicadores estratégicos para otimização do estoque e redução de capital parado.
 
 ## A solução foi desenvolvida com foco na organização e controle de estoque, utilizando tecnologias modernas voltadas para:
 
@@ -12,9 +12,7 @@ Este projeto consiste no desenvolvimento de um sistema web para gestão de inven
 ✅ análise de dados<br>
 ✅ apoio à tomada de decisão<br>
 
-O sistema permite centralizar informações operacionais, reduzir falhas manuais e fornecer indicadores estratégicos para otimização do estoque e redução de capital parado.
-
-🎯 Objetivos do Projeto
+## 🎯 Objetivos do Projeto 
 
 ✅ Desenvolver um sistema web para gestão de inventário
 ✅ Estruturar banco de dados para armazenamento seguro das informações
@@ -23,10 +21,10 @@ O sistema permite centralizar informações operacionais, reduzir falhas manuais
 ✅ Facilitar análises operacionais e gerenciais
 ✅ Apoiar tomadas de decisão baseadas em dados
 
-🧠 Tecnologias Utilizadas
-💻 Front-end
-HTML
-CSS
+## 🧠 Tecnologias Utilizadas
+-💻 Front-end
+-HTML
+-CSS
 JavaScript
 React
 Tailwind CSS
