@@ -14,94 +14,94 @@ Este projeto consiste no desenvolvimento de um sistema web para gestão de inven
 
 ## 🎯 Objetivos do Projeto 
 
-✅ Desenvolver um sistema web para gestão de inventário
-✅ Estruturar banco de dados para armazenamento seguro das informações
-✅ Criar dashboards e indicadores estratégicos
-✅ Automatizar processos de controle de estoque
-✅ Facilitar análises operacionais e gerenciais
-✅ Apoiar tomadas de decisão baseadas em dados
+✅ Desenvolver um sistema web para gestão de inventário<br>
+✅ Estruturar banco de dados para armazenamento seguro das informações<br>
+✅ Criar dashboards e indicadores estratégicos<br>
+✅ Automatizar processos de controle de estoque<br>
+✅ Facilitar análises operacionais e gerenciais<br>
+✅ Apoiar tomadas de decisão baseadas em dados<br>
 
 ## 🧠 Tecnologias Utilizadas
-✅  Front-end
-✅ HTML
-✅ CSS
-✅ JavaScript
-✅ React
-✅ Tailwind CSS
-✅ Back-end
-✅ Node.js
+✅ Front-end<br>
+✅ HTML<br>
+✅ CSS<br>
+✅ JavaScript<br>
+✅ React<br>
+✅ Tailwind CSS<br>
+✅ Back-end<br>
+✅ Node.js<br>
 ✅ Banco de Dados<br>
 ✅ MySQL<br>
-✅  Infraestrutura<br>
+✅ Infraestrutura<br>
 ✅ Docker<br>
 ✅ Nginx<br>
 ✅  Controle de Versão<br>
 ✅ Git <br>
 ✅ GitHub <br>
 ## 📊 Análise de Dados e Dashboard
-Chart.js
-Excel (.xlsx)
-📊 Funcionalidades
+✅ Chart.js<br>
+✅ Excel (.xlsx)<br>
+## 📊 Funcionalidades
 
-✅ Cadastro de produtos
-✅ Controle de estoque em tempo real
-✅ Registro de entradas e saídas
-✅ Dashboard interativo
-✅ Indicadores estratégicos
-✅ Upload de planilhas Excel
-✅ Relatórios analíticos
-✅ Visualização gráfica dos dados
-✅ Controle de movimentações
-✅ Filtros dinâmicos por produto e categoria
+✅ Cadastro de produtos<br>
+✅ Controle de estoque em tempo real<br>
+✅ Registro de entradas e saídas<br>
+✅ Dashboard interativo<br>
+✅ Indicadores estratégicos<br>
+✅ Upload de planilhas Excel<br>
+✅ Relatórios analíticos<br>
+✅ Visualização gráfica dos dados<br>
+✅ Controle de movimentações<br>
+✅ Filtros dinâmicos por produto e categoria<br>
 
-📈 Indicadores Gerados
+## 📈 Indicadores Gerados
 
 O sistema realiza análise automática dos dados de estoque, fornecendo métricas como:
 
-Quantidade total de produtos
-Valor total em estoque
-Itens com estoque zerado
-Preço médio dos produtos
-Distribuição percentual por categoria
-Quantidade de itens por tipo
-Valor financeiro por categoria
-📷 Dashboard
+✅ Quantidade total de produtos<br>
+✅ Valor total em estoque<br>
+✅ Itens com estoque zerado<br>
+✅ Preço médio dos produtos<br>
+✅ Distribuição percentual por categoria<br>
+✅ Quantidade de itens por tipo<br>
+✅ Valor financeiro por categoria<br>
+## 📷 Dashboard
 
 O dashboard apresenta visualizações interativas utilizando gráficos dinâmicos com Chart.js:
 
-📌 gráficos de barras
-📌 gráficos de pizza
-📌 tabelas analíticas
-📌 filtros inteligentes
+📌 gráficos de barras<br>
+📌 gráficos de pizza<br>
+📌 tabelas analíticas<br>
+📌 filtros inteligentes<br>
 
-🏗️ Arquitetura do Projeto
+## 🏗️ Arquitetura do Projeto
 
 A aplicação foi construída utilizando arquitetura web moderna:
 
-✅ Front-end responsivo
-✅ API REST com Node.js
-✅ Banco de dados relacional
-✅ Containerização com Docker
-✅ Proxy reverso com Nginx
+✅ Front-end responsivo<br>
+✅ API REST com Node.js<br>
+✅ Banco de dados relacional<br>
+✅ Containerização com Docker<br>
+✅ Proxy reverso com Nginx<br>
 
-📚 Fundamentação
+##📚 Fundamentação
 
 O projeto foi desenvolvido aplicando conceitos de:
 
-Engenharia de Software
-Banco de Dados
-Desenvolvimento Web
-Ciência de Dados
-Gestão de Estoques
-Interface Humano-Computador
-Design Thinking
-🚀 Resultados Esperados
+✅ Engenharia de Software<br>
+✅ Banco de Dados<br>
+✅ Desenvolvimento Web<br>
+✅ Ciência de Dados<br>
+✅ Gestão de Estoques<br>
+✅ Interface Humano-Computador<br>
+✅ Design Thinking<br>
+## 🚀 Resultados Esperados
 
-✅ Redução de falhas operacionais
-✅ Melhor controle de estoque
-✅ Apoio estratégico à gestão
-✅ Redução de capital imobilizado
-✅ Maior eficiência organizacional
-✅ Tomada de decisão baseada em dados
--Maior eficiência organizacional
--Tomada de decisão baseada em dados
+✅ Redução de falhas operacionais<br>
+✅ Melhor controle de estoque<br>
+✅ Apoio estratégico à gestão<br>
+✅ Redução de capital imobilizado<br>
+✅ Maior eficiência organizacional<br>
+✅ Tomada de decisão baseada em dados<br>
+✅ Maior eficiência organizacional<br>
+✅ Tomada de decisão baseada em dados<br>
